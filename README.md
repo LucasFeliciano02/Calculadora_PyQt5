@@ -1,2 +1,4 @@
 # PyQT5_Calculadora
-Calculadora.py feita com interface gráfica PyQT5 
+• Calculadora feita em python com interface gráfica PyQT5 
+
+![Calculadora](Calculadora_PyQT5.PNG)
