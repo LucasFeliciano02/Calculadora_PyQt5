@@ -8,7 +8,7 @@
 
 ------
 
-# teste o projeto
+# Teste o projeto
 
 ### Pré-requisitos
 
@@ -35,7 +35,6 @@ $ git clone https://github.com/LucasFeliciano02/PyQT5_Calculadora.git
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [python](https://www.python.org/downloads/)
-
 
 ---
 
