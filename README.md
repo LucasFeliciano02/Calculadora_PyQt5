@@ -51,7 +51,17 @@
 As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 
 
-- [python](https://www.python.org/downloads/)
+<table>
+  <thead>
+    <th>Back-end</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Python</td>
+    </tr>
+  </tbody>
+
+</table>
 
 
 ## :white_check_mark: Pré-requisitos ##
