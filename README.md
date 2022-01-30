@@ -4,6 +4,13 @@
  
  &#xa0;
  
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Imersao Nextjs Alura 🚀 Em construção...  🚧
+</h4> 
+<hr> -->
+
  
  </div>
  
@@ -35,14 +42,6 @@ Calculadora feito com interface gráfica do python
 :heavy_check_mark: 1º Calcular o que deseja;
 
 
-## :white_check_mark: Pré requisitos ##
-
-
-Antes de começar, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
-[Git](https://git-scm.com/downloads) e [Python](https://www.python.org/downloads/).
-Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code](https://code.visualstudio.com/download)
-
-
 ## :rocket: Tecnologias ##
  
  
@@ -51,7 +50,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [python](https://www.python.org/downloads/)
 
- 
+
+## :white_check_mark: Pré requisitos ##
+
+
+Antes de começar, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
+[Git](https://git-scm.com/downloads) e [Python](https://www.python.org/downloads/).
+Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code](https://code.visualstudio.com/download)
+
+
 ## :checkered_flag: Começando ##
 
 
