@@ -1,4 +1,5 @@
  
+ ---
  
 <div align="center" id="top">
  <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
@@ -35,7 +36,7 @@
 
 <br>
 	
----	
+	
 ## :dart: Sobre ##
 
 ```sh
