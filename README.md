@@ -1,3 +1,15 @@
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+---
+	🚧  Projeto X 🚀 Em construção...  🚧
+</h4> 
+
+
+<hr> -->
+
+
+
 <div align="center" id="top">
  <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
 
@@ -11,15 +23,6 @@
  <h1 align="center">Calculadora PyQT5</h1>
 
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Imersao Nextjs Alura 🚀 Em construção...  🚧
-</h4> 
-
-
-<hr> -->
-
  
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -32,6 +35,7 @@
 
 
 <br>
+			
 	
 	
 ## :dart: Sobre ##
