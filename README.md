@@ -1,6 +1,3 @@
- 
- ---
- 
 <div align="center" id="top">
  <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
 
@@ -8,7 +5,6 @@
   &#xa0;
  
 
- 
  </div>
  
  
@@ -25,7 +21,7 @@
 <hr> -->
 
  
- <p align="center">
+<p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0; 
