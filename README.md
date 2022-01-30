@@ -2,20 +2,24 @@
  <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
 
  
- &#xa0;
+  &#xa0;
  
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Imersao Nextjs Alura 🚀 Em construção...  🚧
-</h4> 
-<hr> -->
 
  
  </div>
  
  
  <h1 align="center">Calculadora PyQT5</h1>
+
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Imersao Nextjs Alura 🚀 Em construção...  🚧
+</h4> 
+
+
+<hr> -->
 
  
  <p align="center">
