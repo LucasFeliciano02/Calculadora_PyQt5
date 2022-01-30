@@ -1,5 +1,16 @@
  
  
+<div align="center" id="top">
+ <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
+
+ 
+  &#xa0;
+ 
+
+ 
+ </div>
+ 
+ 
  <h1 align="center">Calculadora PyQT5</h1>
 
 
@@ -23,15 +34,6 @@
 
 
 <br>
- 
- 
- <div align="center" id="top">
- <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
-
- 
-  &#xa0;
- 
- </div>	
 	
 ## :dart: Sobre ##
 
