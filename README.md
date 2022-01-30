@@ -22,7 +22,7 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0; 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0; 
-  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré-requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
 </p>
 
@@ -32,9 +32,9 @@
  
 ## :dart: Sobre ##
 
-
-Calculadora feito com interface gráfica do python
- 
+```sh
+• Calculadora feita com interface gráfica do python!
+```
 
 ## :sparkles: Funcionalidades ##
 
@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [python](https://www.python.org/downloads/)
 
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Pré-requisitos ##
 
 
 Antes de começar, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
