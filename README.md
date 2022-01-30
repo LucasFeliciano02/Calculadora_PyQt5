@@ -80,6 +80,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 
 ---
 
+
 Made with :heart: by [Lucas Feliciano](https://github.com/LucasFeliciano02) | 👋 [See my Linkedin](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)
 
 
