@@ -1,25 +1,59 @@
-# PyQT5_Calculadora
+<div align="center" id="top">
+ <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
+
+ 
+ &#xa0;
+ 
+ 
+ </div>
+ 
+ 
+ <h1 align="center">Calculadora PyQT5</h1>
+
+ 
+ <p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0; 
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0; 
+  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+</p>
 
 
+<br>
+ 
+ 
+## :dart: Sobre ##
 
-```sh
-• Calculadora básica feita durante curso, foi mudado algumas coisas, comparado a calculadora do windows
-```
 
-![Calculadora](Calculadora_PyQT5.PNG) 
+Calculadora feito com interface gráfica do python
+ 
 
-------
+## :sparkles: Funcionalidades ##
 
-# Teste o projeto
 
-### 💡 Pré-requisitos
+:heavy_check_mark: 1º Calcular o que deseja;
+
+
+## :white_check_mark: Pré requisitos ##
+
 
 Antes de começar, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
 [Git](https://git-scm.com/downloads) e [Python](https://www.python.org/downloads/).
 Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code](https://code.visualstudio.com/download)
 
 
-### 🎲 Rodando o Back-End
+## :rocket: Tecnologias ##
+ 
+ 
+As seguintes ferramentas foram usadas na construção do projeto:
+
+
+- [python](https://www.python.org/downloads/)
+
+ 
+## :checkered_flag: Começando ##
+
 
 ```bash
 # Clone este repositorio
@@ -32,15 +66,13 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 
 ```
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [python](https://www.python.org/downloads/)
 
 ---
 
-Made with 💜 by LUCAS.F 👋 [See my Linkedin](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)
-&#xa0;
+Made with :heart: by [Lucas Feliciano](https://github.com/LucasFeliciano02) | 👋 [See my Linkedin](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)
 
 
+ &#xa0;
+
+
+<a href="#top">Voltar para o topo</a>
