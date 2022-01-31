@@ -90,7 +90,8 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 # Acesse a pasta do projeto que aparecerá em sua area de trabalho
  -> mouse esquerdo -> Abrir com Code
 
-# Baixar Run Code em extensões e DESFRUTAR DO CÓDIGO
+# Baixar Run Code em extensões, pyqt5 e DESFRUTAR DO CÓDIGO
+  -> terminal -> pip install pyqt5
 
 ```
 
