@@ -102,7 +102,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 ### Autor
 
 
-<img alt="Lucas Feliciano" title="Lucas Feliciano" src="https://media-exp1.licdn.com/dms/image/D5635AQGug7hS_G3NDg/profile-framedphoto-shrink_200_200/0/1634681134226?e=1643641200&v=beta&t=-3VcQtsRXIRXAk1KY5ZxVAe_FuGl8-dnwn6GlvSU_GY" height="100" width="100" />
+<img alt="Lucas Feliciano" title="Lucas Feliciano" src="https://media-exp1.licdn.com/dms/image/D5635AQGug7hS_G3NDg/profile-framedphoto-shrink_200_200/0/1634681134226?e=1643911200&v=beta&t=-Fc-EA6SW9JBYsu1jmvLtGKBMI6sSwYikx7QFLxlMgw" height="100" width="100" />
 
 
 Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02)
