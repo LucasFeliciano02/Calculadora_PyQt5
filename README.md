@@ -105,10 +105,10 @@ Além disto é bom ter um editor para trabalhar com o código, tal como [VS Code
 <img alt="Lucas Feliciano" title="Lucas Feliciano" src="https://media-exp1.licdn.com/dms/image/D5635AQGug7hS_G3NDg/profile-framedphoto-shrink_200_200/0/1634681134226?e=1643911200&v=beta&t=-Fc-EA6SW9JBYsu1jmvLtGKBMI6sSwYikx7QFLxlMgw" height="100" width="100" />
 
 
-Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02)
+Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02) 👋
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Lucas_Feliciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Lucas_Feliciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/) 
 
 
 
