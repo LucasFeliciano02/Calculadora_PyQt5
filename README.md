@@ -14,10 +14,12 @@
 
 
 <div align="center" id="top">
- <img src="Calculadora_PyQT5.PNG" alt="Calculadora" /> 
+  <img alt="Calculadora" title="Calculadora" src="./Calculadora_PyQT5.PNG"/>
+</h1>
 
  
   &#xa0;
+ 
  
 
  </div>
