@@ -114,7 +114,7 @@ Made with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02) ðŸ‘
 [![LinkedIn Badge](https://img.shields.io/badge/-Lucas_Feliciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/) 
 
 
-<br>
+&#xa0;
 
 
 <a href="#top">Voltar para o topo</a>
