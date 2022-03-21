@@ -12,7 +12,7 @@
   <img alt="Calculadora" title="Calculadora" src="./Calculadora_PyQT5.PNG"/>
 </h1>
 
- 
+<hr> 
   &#xa0;
  
  
