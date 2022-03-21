@@ -47,7 +47,7 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: 1º Calcular o que deseja;
+:heavy_check_mark: Calcular o que deseja;
 
 
 ## :rocket: Tecnologias ##
