@@ -21,7 +21,7 @@
  
  
  <h1 align="center">Calculadora PyQT5</h1>
-
+<hr> 
 
  
 <p align="center">
@@ -33,7 +33,7 @@
 <!--  <a href="#autor">Autor</a> -->
 </p>
 
-<hr> 
+
 <br>
 			
 	
