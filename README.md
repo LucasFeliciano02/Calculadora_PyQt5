@@ -44,6 +44,7 @@
 • Calculadora feita com interface gráfica do python!, algumas coisas foram customizadas para não ficar 100% igual ao curso
 ```
 
+
 ## :sparkles: Funcionalidades ##
 
 
