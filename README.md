@@ -21,7 +21,7 @@
  
  
  <h1 align="center">Calculadora PyQT5</h1>
-<hr> 
+
 
  
 <p align="center">
